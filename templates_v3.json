@@ -23699,6 +23699,6 @@
         "url": "https://github.com/portainer/templates",
         "stackfile": "edge/litmusedge_dfd/docker-compose.yml"
       }
-    }
+    
   ]
 }
